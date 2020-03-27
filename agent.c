@@ -10,7 +10,7 @@
 /*******************************************************************************
             QUESTION
 
----------------Algorithm and Data Structures------------------------------------
+---------------Algorithm and Data Structures-----------------------------------
 
 So this program basically use a basic minimax algorithm with alphabeta pruning.
 The bestMove() function is ran everytime a move in need is called. It basically
